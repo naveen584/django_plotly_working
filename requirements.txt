@@ -1,0 +1,9 @@
+#python version = Python 3.7.6
+
+
+#depndencies with  pip 
+
+pip install beautifulsoup4 bs4 imgkit matplotlib numpy pandas pdfkit plotly scipy selenium  biopython
+#depndencies with  conda
+conda install -c bioconda cd-hit hmmer
+

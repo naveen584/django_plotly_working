@@ -1,0 +1,2 @@
+E-Value  Score  Seq-Id  TMH  Total_aa  TMD  blue_boxes  red_boxes
+5.1e-35  119.6  XP_458993  2  17  1641  2  2  17
